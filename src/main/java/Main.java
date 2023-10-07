@@ -24,4 +24,4 @@ public class Main {
             System.out.println("Number 3 is the highest");
         }
     }
-} // later on a version using data structures (I don't have time right now)
+} // Later on, I plan to create a version using data structures (I don't have time right now).
